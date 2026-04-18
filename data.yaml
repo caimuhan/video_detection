@@ -1,0 +1,10 @@
+path: C:/Users/HP/Desktop/final_task/video_detection/datasets
+train: images/train
+val: images/val
+names:
+  0: Type_1
+  1: Type_3
+  2: Type_4
+  3: Type_5
+  4: Type_2
+  5: others
