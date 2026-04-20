@@ -1,0 +1,4747 @@
+{
+  "image_count": 12,
+  "image_names": [
+    "IMG_2376_frame_000000.jpg",
+    "IMG_2376_frame_000030.jpg",
+    "IMG_2376_frame_000060.jpg",
+    "IMG_2376_frame_000090.jpg",
+    "IMG_2376_frame_000120.jpg",
+    "IMG_2376_frame_000150.jpg",
+    "IMG_2376_frame_000180.jpg",
+    "IMG_2376_frame_000210.jpg",
+    "IMG_2376_frame_000240.jpg",
+    "IMG_2376_frame_000270.jpg",
+    "IMG_2376_frame_000300.jpg",
+    "IMG_2376_frame_000330.jpg"
+  ],
+  "total_unique_screws": 90,
+  "screw_count_by_class": {
+    "others": 14,
+    "Type_3": 12,
+    "Type_4": 21,
+    "Type_1": 26,
+    "Type_2": 12,
+    "Type_5": 5
+  },
+  "global_screws": [
+    {
+      "ref_center_xy": [
+        917.51,
+        1744.15
+      ],
+      "class_id": 5,
+      "class_name": "others",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        123.57,
+        1584.22
+      ],
+      "class_id": 1,
+      "class_name": "Type_3",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        392.41,
+        2038.5
+      ],
+      "class_id": 5,
+      "class_name": "others",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        282.54,
+        3497.38
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        318.27,
+        1567.73
+      ],
+      "class_id": 1,
+      "class_name": "Type_3",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        432.95,
+        1382.46
+      ],
+      "class_id": 5,
+      "class_name": "others",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        246.46,
+        910.37
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        231.85,
+        2195.81
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        298.81,
+        1062.48
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        129.26,
+        2436.59
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        530.6,
+        2762.83
+      ],
+      "class_id": 5,
+      "class_name": "others",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        693.92,
+        3548.0
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        91.07,
+        3771.08
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        373.51,
+        3214.28
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        43.08,
+        3084.26
+      ],
+      "class_id": 5,
+      "class_name": "others",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        37.65,
+        2557.93
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        881.66,
+        2822.32
+      ],
+      "class_id": 4,
+      "class_name": "Type_2",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        397.54,
+        351.44
+      ],
+      "class_id": 1,
+      "class_name": "Type_3",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        550.2,
+        3475.7
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        539.0,
+        418.79
+      ],
+      "class_id": 1,
+      "class_name": "Type_3",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        836.04,
+        3289.98
+      ],
+      "class_id": 4,
+      "class_name": "Type_2",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        249.33,
+        551.3
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        376.58,
+        3787.57
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        598.34,
+        1755.22
+      ],
+      "class_id": 4,
+      "class_name": "Type_2",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        171.86,
+        386.87
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        164.19,
+        2638.39
+      ],
+      "class_id": 3,
+      "class_name": "Type_5",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        844.92,
+        2349.94
+      ],
+      "class_id": 4,
+      "class_name": "Type_2",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        82.59,
+        1724.72
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        74.15,
+        3419.98
+      ],
+      "class_id": 1,
+      "class_name": "Type_3",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        325.17,
+        3821.89
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        160.59,
+        3301.08
+      ],
+      "class_id": 3,
+      "class_name": "Type_5",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        56.64,
+        423.98
+      ],
+      "class_id": 1,
+      "class_name": "Type_3",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        138.9,
+        3627.97
+      ],
+      "class_id": 1,
+      "class_name": "Type_3",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        222.35,
+        3805.74
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        20.25,
+        2749.75
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000000.jpg"
+    },
+    {
+      "ref_center_xy": [
+        -6.07,
+        400.56
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000030.jpg"
+    },
+    {
+      "ref_center_xy": [
+        319.27,
+        460.09
+      ],
+      "class_id": 4,
+      "class_name": "Type_2",
+      "first_seen_image": "IMG_2376_frame_000030.jpg"
+    },
+    {
+      "ref_center_xy": [
+        40.77,
+        506.58
+      ],
+      "class_id": 1,
+      "class_name": "Type_3",
+      "first_seen_image": "IMG_2376_frame_000030.jpg"
+    },
+    {
+      "ref_center_xy": [
+        -40.88,
+        996.51
+      ],
+      "class_id": 5,
+      "class_name": "others",
+      "first_seen_image": "IMG_2376_frame_000060.jpg"
+    },
+    {
+      "ref_center_xy": [
+        -140.39,
+        669.73
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000060.jpg"
+    },
+    {
+      "ref_center_xy": [
+        -131.01,
+        936.57
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000060.jpg"
+    },
+    {
+      "ref_center_xy": [
+        198.06,
+        3591.8
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000060.jpg"
+    },
+    {
+      "ref_center_xy": [
+        -154.14,
+        1251.84
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000090.jpg"
+    },
+    {
+      "ref_center_xy": [
+        -465.58,
+        929.56
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000090.jpg"
+    },
+    {
+      "ref_center_xy": [
+        -306.05,
+        1148.14
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000090.jpg"
+    },
+    {
+      "ref_center_xy": [
+        -36.18,
+        2553.95
+      ],
+      "class_id": 5,
+      "class_name": "others",
+      "first_seen_image": "IMG_2376_frame_000090.jpg"
+    },
+    {
+      "ref_center_xy": [
+        -179.69,
+        2560.11
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000120.jpg"
+    },
+    {
+      "ref_center_xy": [
+        277.57,
+        1431.97
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000120.jpg"
+    },
+    {
+      "ref_center_xy": [
+        -129.61,
+        2966.81
+      ],
+      "class_id": 3,
+      "class_name": "Type_5",
+      "first_seen_image": "IMG_2376_frame_000150.jpg"
+    },
+    {
+      "ref_center_xy": [
+        131.14,
+        3365.5
+      ],
+      "class_id": 1,
+      "class_name": "Type_3",
+      "first_seen_image": "IMG_2376_frame_000150.jpg"
+    },
+    {
+      "ref_center_xy": [
+        879.84,
+        1801.62
+      ],
+      "class_id": 5,
+      "class_name": "others",
+      "first_seen_image": "IMG_2376_frame_000150.jpg"
+    },
+    {
+      "ref_center_xy": [
+        -90.73,
+        2889.45
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000150.jpg"
+    },
+    {
+      "ref_center_xy": [
+        1165.56,
+        3385.66
+      ],
+      "class_id": 4,
+      "class_name": "Type_2",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        496.62,
+        3227.08
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        211.57,
+        2924.12
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        602.85,
+        3414.41
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        198.3,
+        2850.56
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        240.8,
+        1802.23
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        154.2,
+        2266.37
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        44.32,
+        2207.34
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        791.16,
+        3498.54
+      ],
+      "class_id": 4,
+      "class_name": "Type_2",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        94.57,
+        2222.25
+      ],
+      "class_id": 5,
+      "class_name": "others",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        -20.37,
+        516.29
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        292.9,
+        3084.92
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        236.5,
+        2396.33
+      ],
+      "class_id": 3,
+      "class_name": "Type_5",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        113.79,
+        2519.1
+      ],
+      "class_id": 3,
+      "class_name": "Type_5",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        375.7,
+        2939.76
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        265.46,
+        2844.02
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        252.74,
+        2999.06
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        183.64,
+        2139.37
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        324.3,
+        3001.72
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        1088.62,
+        2638.03
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000180.jpg"
+    },
+    {
+      "ref_center_xy": [
+        1018.81,
+        3398.65
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000210.jpg"
+    },
+    {
+      "ref_center_xy": [
+        1556.42,
+        2519.53
+      ],
+      "class_id": 4,
+      "class_name": "Type_2",
+      "first_seen_image": "IMG_2376_frame_000270.jpg"
+    },
+    {
+      "ref_center_xy": [
+        1117.29,
+        3335.89
+      ],
+      "class_id": 4,
+      "class_name": "Type_2",
+      "first_seen_image": "IMG_2376_frame_000270.jpg"
+    },
+    {
+      "ref_center_xy": [
+        1650.25,
+        -2190.28
+      ],
+      "class_id": 4,
+      "class_name": "Type_2",
+      "first_seen_image": "IMG_2376_frame_000300.jpg"
+    },
+    {
+      "ref_center_xy": [
+        1517.82,
+        2619.81
+      ],
+      "class_id": 4,
+      "class_name": "Type_2",
+      "first_seen_image": "IMG_2376_frame_000300.jpg"
+    },
+    {
+      "ref_center_xy": [
+        422.26,
+        1440.81
+      ],
+      "class_id": 5,
+      "class_name": "others",
+      "first_seen_image": "IMG_2376_frame_000300.jpg"
+    },
+    {
+      "ref_center_xy": [
+        -3533.17,
+        6760.55
+      ],
+      "class_id": 5,
+      "class_name": "others",
+      "first_seen_image": "IMG_2376_frame_000300.jpg"
+    },
+    {
+      "ref_center_xy": [
+        297.8,
+        -1565.46
+      ],
+      "class_id": 1,
+      "class_name": "Type_3",
+      "first_seen_image": "IMG_2376_frame_000300.jpg"
+    },
+    {
+      "ref_center_xy": [
+        -19.92,
+        576.51
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000300.jpg"
+    },
+    {
+      "ref_center_xy": [
+        2.48,
+        4.87
+      ],
+      "class_id": 5,
+      "class_name": "others",
+      "first_seen_image": "IMG_2376_frame_000300.jpg"
+    },
+    {
+      "ref_center_xy": [
+        1642.23,
+        -2086.39
+      ],
+      "class_id": 4,
+      "class_name": "Type_2",
+      "first_seen_image": "IMG_2376_frame_000330.jpg"
+    },
+    {
+      "ref_center_xy": [
+        293.38,
+        -1624.37
+      ],
+      "class_id": 1,
+      "class_name": "Type_3",
+      "first_seen_image": "IMG_2376_frame_000330.jpg"
+    },
+    {
+      "ref_center_xy": [
+        -29.15,
+        -147.18
+      ],
+      "class_id": 1,
+      "class_name": "Type_3",
+      "first_seen_image": "IMG_2376_frame_000330.jpg"
+    },
+    {
+      "ref_center_xy": [
+        -3602.66,
+        6862.84
+      ],
+      "class_id": 5,
+      "class_name": "others",
+      "first_seen_image": "IMG_2376_frame_000330.jpg"
+    },
+    {
+      "ref_center_xy": [
+        1234.73,
+        -15517.87
+      ],
+      "class_id": 5,
+      "class_name": "others",
+      "first_seen_image": "IMG_2376_frame_000330.jpg"
+    },
+    {
+      "ref_center_xy": [
+        -512.83,
+        -1133.9
+      ],
+      "class_id": 2,
+      "class_name": "Type_4",
+      "first_seen_image": "IMG_2376_frame_000330.jpg"
+    },
+    {
+      "ref_center_xy": [
+        1036.75,
+        18753.89
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000330.jpg"
+    },
+    {
+      "ref_center_xy": [
+        1166.79,
+        35740.16
+      ],
+      "class_id": 0,
+      "class_name": "Type_1",
+      "first_seen_image": "IMG_2376_frame_000330.jpg"
+    }
+  ],
+  "pairwise_homography": [
+    {
+      "pair": [
+        "IMG_2376_frame_000000.jpg",
+        "IMG_2376_frame_000030.jpg"
+      ],
+      "matched_pairs": 36,
+      "inliers": 25,
+      "H_curr_to_prev": [
+        [
+          0.962335,
+          0.024612,
+          -46.087888
+        ],
+        [
+          -0.016096,
+          0.974007,
+          28.6333
+        ],
+        [
+          3e-06,
+          -3e-06,
+          1.0
+        ]
+      ],
+      "status": "ok",
+      "reason": "",
+      "new_added_to_global": 3
+    },
+    {
+      "pair": [
+        "IMG_2376_frame_000030.jpg",
+        "IMG_2376_frame_000060.jpg"
+      ],
+      "matched_pairs": 29,
+      "inliers": 16,
+      "H_curr_to_prev": [
+        [
+          0.880821,
+          0.101117,
+          -241.808499
+        ],
+        [
+          -0.154918,
+          0.945548,
+          41.959675
+        ],
+        [
+          -2e-05,
+          -4e-06,
+          1.0
+        ]
+      ],
+      "status": "ok",
+      "reason": "",
+      "new_added_to_global": 4
+    },
+    {
+      "pair": [
+        "IMG_2376_frame_000060.jpg",
+        "IMG_2376_frame_000090.jpg"
+      ],
+      "matched_pairs": 30,
+      "inliers": 15,
+      "H_curr_to_prev": [
+        [
+          0.857386,
+          0.176075,
+          -588.049405
+        ],
+        [
+          -0.268842,
+          0.937734,
+          158.934687
+        ],
+        [
+          -3.1e-05,
+          -2e-06,
+          1.0
+        ]
+      ],
+      "status": "ok",
+      "reason": "",
+      "new_added_to_global": 4
+    },
+    {
+      "pair": [
+        "IMG_2376_frame_000090.jpg",
+        "IMG_2376_frame_000120.jpg"
+      ],
+      "matched_pairs": 37,
+      "inliers": 19,
+      "H_curr_to_prev": [
+        [
+          0.917948,
+          0.178467,
+          -605.14019
+        ],
+        [
+          -0.230132,
+          0.994247,
+          398.018724
+        ],
+        [
+          -2.2e-05,
+          6e-06,
+          1.0
+        ]
+      ],
+      "status": "ok",
+      "reason": "",
+      "new_added_to_global": 2
+    },
+    {
+      "pair": [
+        "IMG_2376_frame_000120.jpg",
+        "IMG_2376_frame_000150.jpg"
+      ],
+      "matched_pairs": 37,
+      "inliers": 10,
+      "H_curr_to_prev": [
+        [
+          0.854279,
+          0.142283,
+          -582.042506
+        ],
+        [
+          -0.255987,
+          0.941364,
+          613.748928
+        ],
+        [
+          -4.2e-05,
+          -6e-06,
+          1.0
+        ]
+      ],
+      "status": "ok",
+      "reason": "",
+      "new_added_to_global": 4
+    },
+    {
+      "pair": [
+        "IMG_2376_frame_000150.jpg",
+        "IMG_2376_frame_000180.jpg"
+      ],
+      "matched_pairs": 26,
+      "inliers": 5,
+      "H_curr_to_prev": [
+        [
+          -0.117467,
+          -0.145461,
+          907.991801
+        ],
+        [
+          -0.765612,
+          0.374548,
+          1236.28885
+        ],
+        [
+          -0.000342,
+          -4.9e-05,
+          1.0
+        ]
+      ],
+      "status": "ok",
+      "reason": "",
+      "new_added_to_global": 20
+    },
+    {
+      "pair": [
+        "IMG_2376_frame_000180.jpg",
+        "IMG_2376_frame_000210.jpg"
+      ],
+      "matched_pairs": 24,
+      "inliers": 15,
+      "H_curr_to_prev": [
+        [
+          0.943202,
+          0.220351,
+          -700.091961
+        ],
+        [
+          -0.29102,
+          0.965345,
+          672.234721
+        ],
+        [
+          -1.2e-05,
+          1e-06,
+          1.0
+        ]
+      ],
+      "status": "ok",
+      "reason": "",
+      "new_added_to_global": 1
+    },
+    {
+      "pair": [
+        "IMG_2376_frame_000210.jpg",
+        "IMG_2376_frame_000240.jpg"
+      ],
+      "matched_pairs": 23,
+      "inliers": 15,
+      "H_curr_to_prev": [
+        [
+          0.877103,
+          0.34459,
+          -386.508645
+        ],
+        [
+          -0.399891,
+          0.956972,
+          870.619264
+        ],
+        [
+          -2.4e-05,
+          2e-05,
+          1.0
+        ]
+      ],
+      "status": "ok",
+      "reason": "",
+      "new_added_to_global": 0
+    },
+    {
+      "pair": [
+        "IMG_2376_frame_000240.jpg",
+        "IMG_2376_frame_000270.jpg"
+      ],
+      "matched_pairs": 24,
+      "inliers": 18,
+      "H_curr_to_prev": [
+        [
+          1.053468,
+          0.304314,
+          -499.556821
+        ],
+        [
+          -0.344262,
+          1.07748,
+          724.346859
+        ],
+        [
+          5e-06,
+          -2e-06,
+          1.0
+        ]
+      ],
+      "status": "ok",
+      "reason": "",
+      "new_added_to_global": 2
+    },
+    {
+      "pair": [
+        "IMG_2376_frame_000270.jpg",
+        "IMG_2376_frame_000300.jpg"
+      ],
+      "matched_pairs": 26,
+      "inliers": 11,
+      "H_curr_to_prev": [
+        [
+          1.147483,
+          0.12124,
+          97.197725
+        ],
+        [
+          -0.108029,
+          1.192058,
+          -140.402459
+        ],
+        [
+          1.3e-05,
+          1e-06,
+          1.0
+        ]
+      ],
+      "status": "ok",
+      "reason": "",
+      "new_added_to_global": 7
+    },
+    {
+      "pair": [
+        "IMG_2376_frame_000300.jpg",
+        "IMG_2376_frame_000330.jpg"
+      ],
+      "matched_pairs": 32,
+      "inliers": 27,
+      "H_curr_to_prev": [
+        [
+          1.131752,
+          0.055213,
+          -43.991293
+        ],
+        [
+          -0.070136,
+          1.140204,
+          -175.612146
+        ],
+        [
+          -7e-06,
+          -1e-06,
+          1.0
+        ]
+      ],
+      "status": "ok",
+      "reason": "",
+      "new_added_to_global": 8
+    }
+  ],
+  "detections_by_image": {
+    "IMG_2376_frame_000000.jpg": [
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.932419,
+        "center_xy": [
+          917.51,
+          1744.15
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.909051,
+        "center_xy": [
+          123.57,
+          1584.22
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.904431,
+        "center_xy": [
+          392.41,
+          2038.5
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.899909,
+        "center_xy": [
+          282.54,
+          3497.38
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.896515,
+        "center_xy": [
+          318.27,
+          1567.73
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.882741,
+        "center_xy": [
+          432.95,
+          1382.46
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.864436,
+        "center_xy": [
+          246.46,
+          910.37
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.853225,
+        "center_xy": [
+          231.85,
+          2195.81
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.836726,
+        "center_xy": [
+          298.81,
+          1062.48
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.83437,
+        "center_xy": [
+          129.26,
+          2436.59
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.818186,
+        "center_xy": [
+          530.6,
+          2762.83
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.812276,
+        "center_xy": [
+          693.92,
+          3548.0
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.809713,
+        "center_xy": [
+          91.07,
+          3771.08
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.808588,
+        "center_xy": [
+          373.51,
+          3214.28
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.805133,
+        "center_xy": [
+          43.08,
+          3084.26
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.803453,
+        "center_xy": [
+          37.65,
+          2557.93
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.772752,
+        "center_xy": [
+          881.66,
+          2822.32
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.772593,
+        "center_xy": [
+          397.54,
+          351.44
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.757152,
+        "center_xy": [
+          550.2,
+          3475.7
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.75511,
+        "center_xy": [
+          539.0,
+          418.79
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.745689,
+        "center_xy": [
+          836.04,
+          3289.98
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.72909,
+        "center_xy": [
+          249.33,
+          551.3
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.715899,
+        "center_xy": [
+          376.58,
+          3787.57
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.708964,
+        "center_xy": [
+          598.34,
+          1755.22
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.706342,
+        "center_xy": [
+          171.86,
+          386.87
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.700843,
+        "center_xy": [
+          164.19,
+          2638.39
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.670182,
+        "center_xy": [
+          844.92,
+          2349.94
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.631322,
+        "center_xy": [
+          82.59,
+          1724.72
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.613828,
+        "center_xy": [
+          74.15,
+          3419.98
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.611559,
+        "center_xy": [
+          251.37,
+          527.29
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.601363,
+        "center_xy": [
+          325.17,
+          3821.89
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.589614,
+        "center_xy": [
+          160.59,
+          3301.08
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.435973,
+        "center_xy": [
+          159.16,
+          3301.34
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.406621,
+        "center_xy": [
+          56.64,
+          423.98
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.390287,
+        "center_xy": [
+          138.9,
+          3627.97
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.305887,
+        "center_xy": [
+          222.35,
+          3805.74
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.256179,
+        "center_xy": [
+          20.25,
+          2749.75
+        ]
+      }
+    ],
+    "IMG_2376_frame_000030.jpg": [
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.932414,
+        "center_xy": [
+          337.98,
+          1581.52
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.9243,
+        "center_xy": [
+          132.21,
+          1589.95
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.922332,
+        "center_xy": [
+          953.33,
+          1774.86
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.915746,
+        "center_xy": [
+          397.85,
+          2062.67
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.902937,
+        "center_xy": [
+          244.62,
+          3535.32
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.900228,
+        "center_xy": [
+          596.47,
+          415.67
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.890764,
+        "center_xy": [
+          459.26,
+          1390.23
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.868453,
+        "center_xy": [
+          115.26,
+          2454.09
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.855685,
+        "center_xy": [
+          528.41,
+          3519.58
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.854358,
+        "center_xy": [
+          31.82,
+          381.98
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.85276,
+        "center_xy": [
+          348.12,
+          3254.3
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.852468,
+        "center_xy": [
+          282.99,
+          906.96
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.840351,
+        "center_xy": [
+          327.7,
+          1062.56
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.838689,
+        "center_xy": [
+          227.98,
+          2213.5
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.827947,
+        "center_xy": [
+          520.81,
+          2801.05
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.788764,
+        "center_xy": [
+          295.5,
+          528.95
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.775721,
+        "center_xy": [
+          887.16,
+          2866.53
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.774112,
+        "center_xy": [
+          676.92,
+          3596.18
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.772533,
+        "center_xy": [
+          28.81,
+          2586.63
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.757992,
+        "center_xy": [
+          616.97,
+          1778.78
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.75455,
+        "center_xy": [
+          84.41,
+          1729.35
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.749521,
+        "center_xy": [
+          458.21,
+          341.26
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.712314,
+        "center_xy": [
+          826.82,
+          3341.79
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.673835,
+        "center_xy": [
+          860.32,
+          2388.21
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.668099,
+        "center_xy": [
+          340.54,
+          3811.23
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.635567,
+        "center_xy": [
+          185.92,
+          365.92
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.591948,
+        "center_xy": [
+          69.48,
+          3786.92
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.565982,
+        "center_xy": [
+          147.16,
+          2664.15
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.488366,
+        "center_xy": [
+          120.25,
+          3378.23
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.479779,
+        "center_xy": [
+          122.19,
+          3338.28
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.444942,
+        "center_xy": [
+          98.16,
+          3663.65
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.360607,
+        "center_xy": [
+          77.15,
+          450.16
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.357114,
+        "center_xy": [
+          147.28,
+          2661.08
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.333354,
+        "center_xy": [
+          368.16,
+          449.03
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.329161,
+        "center_xy": [
+          859.1,
+          2390.51
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.317201,
+        "center_xy": [
+          181.73,
+          3825.29
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.28597,
+        "center_xy": [
+          29.09,
+          3112.69
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.276508,
+        "center_xy": [
+          410.14,
+          445.96
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.274794,
+        "center_xy": [
+          77.64,
+          491.39
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.273757,
+        "center_xy": [
+          90.93,
+          3659.37
+        ]
+      }
+    ],
+    "IMG_2376_frame_000060.jpg": [
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.941699,
+        "center_xy": [
+          236.31,
+          1651.48
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.912798,
+        "center_xy": [
+          1097.94,
+          1962.21
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.910197,
+        "center_xy": [
+          108.44,
+          2536.26
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.902177,
+        "center_xy": [
+          465.62,
+          1673.36
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.89864,
+        "center_xy": [
+          469.22,
+          2171.15
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.882283,
+        "center_xy": [
+          779.02,
+          418.54
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.874387,
+        "center_xy": [
+          254.54,
+          402.76
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.867624,
+        "center_xy": [
+          614.58,
+          1498.05
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.866027,
+        "center_xy": [
+          135.24,
+          1018.71
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.857417,
+        "center_xy": [
+          267.31,
+          2304.5
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.831265,
+        "center_xy": [
+          510.49,
+          2949.53
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.829945,
+        "center_xy": [
+          445.5,
+          3681.42
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.829339,
+        "center_xy": [
+          487.99,
+          972.44
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.813285,
+        "center_xy": [
+          168.89,
+          1787.99
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.811094,
+        "center_xy": [
+          69.69,
+          656.97
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.809679,
+        "center_xy": [
+          555.81,
+          572.56
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.807137,
+        "center_xy": [
+          922.61,
+          2568.66
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.799014,
+        "center_xy": [
+          741.65,
+          1911.75
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.795704,
+        "center_xy": [
+          514.39,
+          1146.79
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.79031,
+        "center_xy": [
+          129.67,
+          3664.8
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.78841,
+        "center_xy": [
+          270.16,
+          3381.47
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.768084,
+        "center_xy": [
+          434.92,
+          416.95
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.729578,
+        "center_xy": [
+          40.59,
+          939.09
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.71871,
+        "center_xy": [
+          122.39,
+          2760.03
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.650146,
+        "center_xy": [
+          886.19,
+          527.56
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.649345,
+        "center_xy": [
+          905.33,
+          3054.3
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.639762,
+        "center_xy": [
+          776.48,
+          3530.95
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.588726,
+        "center_xy": [
+          595.89,
+          3732.64
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.573693,
+        "center_xy": [
+          23.13,
+          3740.67
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.332664,
+        "center_xy": [
+          887.38,
+          527.23
+        ]
+      }
+    ],
+    "IMG_2376_frame_000090.jpg": [
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.935175,
+        "center_xy": [
+          744.83,
+          2286.86
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.919366,
+        "center_xy": [
+          607.39,
+          1730.69
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.916093,
+        "center_xy": [
+          840.59,
+          1819.53
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.91239,
+        "center_xy": [
+          1023.24,
+          1661.34
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.905717,
+        "center_xy": [
+          1440.82,
+          2226.01
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.890036,
+        "center_xy": [
+          288.67,
+          2577.87
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.887277,
+        "center_xy": [
+          1143.39,
+          2788.98
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.871014,
+        "center_xy": [
+          504.82,
+          1842.42
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.865563,
+        "center_xy": [
+          639.25,
+          3075.42
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.86206,
+        "center_xy": [
+          613.55,
+          1070.64
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.858358,
+        "center_xy": [
+          617.16,
+          699.04
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.844983,
+        "center_xy": [
+          386.9,
+          1270.62
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.838863,
+        "center_xy": [
+          123.69,
+          2687.06
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.838455,
+        "center_xy": [
+          1517.88,
+          797.4
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.836671,
+        "center_xy": [
+          868.29,
+          501.56
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.820758,
+        "center_xy": [
+          503.84,
+          2376.56
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.820711,
+        "center_xy": [
+          999.74,
+          559.62
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.815442,
+        "center_xy": [
+          286.36,
+          3467.45
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.813135,
+        "center_xy": [
+          1079.26,
+          2103.23
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.81301,
+        "center_xy": [
+          481.34,
+          958.57
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.809318,
+        "center_xy": [
+          1006.41,
+          1130.6
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.783878,
+        "center_xy": [
+          122.7,
+          786.74
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.780229,
+        "center_xy": [
+          1160.66,
+          755.49
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.777558,
+        "center_xy": [
+          84.61,
+          3697.1
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.764587,
+        "center_xy": [
+          238.71,
+          1090.78
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.761198,
+        "center_xy": [
+          1389.31,
+          633.34
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.74907,
+        "center_xy": [
+          1001.36,
+          1300.06
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.720129,
+        "center_xy": [
+          811.77,
+          3643.83
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.679741,
+        "center_xy": [
+          1050.77,
+          3248.31
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.636212,
+        "center_xy": [
+          28.34,
+          2827.86
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.61236,
+        "center_xy": [
+          430.6,
+          3739.56
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.598328,
+        "center_xy": [
+          255.65,
+          2810.01
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.524528,
+        "center_xy": [
+          810.67,
+          3648.9
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.354791,
+        "center_xy": [
+          256.82,
+          2809.47
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.342209,
+        "center_xy": [
+          1060.87,
+          566.45
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.280919,
+        "center_xy": [
+          39.06,
+          2637.54
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.280562,
+        "center_xy": [
+          39.69,
+          2639.14
+        ]
+      }
+    ],
+    "IMG_2376_frame_000120.jpg": [
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.942385,
+        "center_xy": [
+          1761.49,
+          2193.92
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.930965,
+        "center_xy": [
+          1007.4,
+          1562.54
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.927739,
+        "center_xy": [
+          1425.42,
+          2005.3
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.909387,
+        "center_xy": [
+          1040.69,
+          2123.39
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.908086,
+        "center_xy": [
+          1132.81,
+          924.63
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.901427,
+        "center_xy": [
+          572.37,
+          3680.27
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.896629,
+        "center_xy": [
+          1235.35,
+          1682.09
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.893689,
+        "center_xy": [
+          345.15,
+          2397.23
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.891894,
+        "center_xy": [
+          1438.62,
+          1574.72
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.890488,
+        "center_xy": [
+          1367.83,
+          2670.84
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.879783,
+        "center_xy": [
+          201.25,
+          2325.01
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.87643,
+        "center_xy": [
+          883.86,
+          1644.93
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.86296,
+        "center_xy": [
+          444.92,
+          3536.09
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.858141,
+        "center_xy": [
+          801.99,
+          2864.75
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.852889,
+        "center_xy": [
+          1212.28,
+          571.76
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.850767,
+        "center_xy": [
+          142.5,
+          2554.32
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.842087,
+        "center_xy": [
+          45.07,
+          3762.58
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.841032,
+        "center_xy": [
+          455.18,
+          2541.79
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.839956,
+        "center_xy": [
+          783.97,
+          2160.92
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.82797,
+        "center_xy": [
+          1496.19,
+          434.18
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.826413,
+        "center_xy": [
+          1189.71,
+          3105.53
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.820066,
+        "center_xy": [
+          359.23,
+          3197.02
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.816315,
+        "center_xy": [
+          1528.38,
+          1051.77
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.814817,
+        "center_xy": [
+          1649.63,
+          550.54
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.813489,
+        "center_xy": [
+          686.79,
+          536.83
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.810564,
+        "center_xy": [
+          534.44,
+          2314.03
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.805667,
+        "center_xy": [
+          861.46,
+          1081.1
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.780908,
+        "center_xy": [
+          2084.25,
+          853.65
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.761063,
+        "center_xy": [
+          1983.17,
+          664.91
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.759166,
+        "center_xy": [
+          1025.45,
+          784.43
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.747017,
+        "center_xy": [
+          1485.77,
+          1226.35
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.714159,
+        "center_xy": [
+          86.28,
+          3408.92
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.707003,
+        "center_xy": [
+          1723.14,
+          751.37
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.685386,
+        "center_xy": [
+          1711.21,
+          552.85
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.623264,
+        "center_xy": [
+          755.57,
+          865.92
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.617209,
+        "center_xy": [
+          866.4,
+          3503.71
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.477912,
+        "center_xy": [
+          64.19,
+          2245.27
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.306028,
+        "center_xy": [
+          1257.99,
+          1523.09
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.281864,
+        "center_xy": [
+          92.11,
+          3167.23
+        ]
+      }
+    ],
+    "IMG_2376_frame_000150.jpg": [
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.936523,
+        "center_xy": [
+          1562.91,
+          1310.67
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.930447,
+        "center_xy": [
+          301.12,
+          2371.06
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.918039,
+        "center_xy": [
+          1102.28,
+          3135.38
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.911389,
+        "center_xy": [
+          1489.68,
+          1852.23
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.910192,
+        "center_xy": [
+          1895.49,
+          1796.6
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.900187,
+        "center_xy": [
+          1769.93,
+          1472.04
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.895019,
+        "center_xy": [
+          769.5,
+          3270.26
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.885771,
+        "center_xy": [
+          1778.32,
+          731.63
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.881279,
+        "center_xy": [
+          1920.98,
+          425.04
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.879076,
+        "center_xy": [
+          1979.09,
+          1404.09
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.867255,
+        "center_xy": [
+          165.74,
+          3283.03
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.866767,
+        "center_xy": [
+          1488.77,
+          2794.23
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.866492,
+        "center_xy": [
+          667.54,
+          3105.71
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.845075,
+        "center_xy": [
+          1233.26,
+          1845.79
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.842645,
+        "center_xy": [
+          180.34,
+          2170.82
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.8392,
+        "center_xy": [
+          459.43,
+          1791.21
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.839092,
+        "center_xy": [
+          2083.11,
+          1080.24
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.83815,
+        "center_xy": [
+          1423.45,
+          1361.72
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.833099,
+        "center_xy": [
+          1741.26,
+          2448.49
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.832546,
+        "center_xy": [
+          766.82,
+          1987.89
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.830506,
+        "center_xy": [
+          192.29,
+          2722.9
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.825323,
+        "center_xy": [
+          535.35,
+          2095.51
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.824233,
+        "center_xy": [
+          1409.02,
+          276.17
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.82356,
+        "center_xy": [
+          962.9,
+          1940.58
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.823092,
+        "center_xy": [
+          641.69,
+          2761.8
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.817726,
+        "center_xy": [
+          2129.81,
+          2046.07
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.810705,
+        "center_xy": [
+          1492.61,
+          827.28
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.800049,
+        "center_xy": [
+          314.31,
+          2681.03
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.793968,
+        "center_xy": [
+          631.94,
+          1887.53
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.785579,
+        "center_xy": [
+          1703.07,
+          572.09
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.778151,
+        "center_xy": [
+          1149.41,
+          2511.04
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.735203,
+        "center_xy": [
+          298.26,
+          2137.46
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.685616,
+        "center_xy": [
+          89.88,
+          2927.63
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.606627,
+        "center_xy": [
+          2099.94,
+          919.23
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.596431,
+        "center_xy": [
+          312.33,
+          2917.86
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.498168,
+        "center_xy": [
+          1430.99,
+          604.1
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.487646,
+        "center_xy": [
+          313.02,
+          2917.1
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.425304,
+        "center_xy": [
+          848.01,
+          2144.93
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.376431,
+        "center_xy": [
+          846.75,
+          2145.85
+        ]
+      }
+    ],
+    "IMG_2376_frame_000180.jpg": [
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.930079,
+        "center_xy": [
+          1895.06,
+          2601.06
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.909727,
+        "center_xy": [
+          1031.33,
+          2726.37
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.908435,
+        "center_xy": [
+          128.19,
+          2358.72
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.904494,
+        "center_xy": [
+          1106.39,
+          2905.48
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.896493,
+        "center_xy": [
+          295.64,
+          2225.65
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.893671,
+        "center_xy": [
+          2056.63,
+          1697.61
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.882159,
+        "center_xy": [
+          797.66,
+          1946.85
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.867976,
+        "center_xy": [
+          629.23,
+          2259.1
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.860803,
+        "center_xy": [
+          1806.03,
+          1641.22
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.853472,
+        "center_xy": [
+          1316.01,
+          1676.67
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.852948,
+        "center_xy": [
+          1046.1,
+          1427.84
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.852255,
+        "center_xy": [
+          1458.53,
+          2838.96
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.851885,
+        "center_xy": [
+          1604.76,
+          2256.49
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.835111,
+        "center_xy": [
+          1068.99,
+          1728.71
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.83296,
+        "center_xy": [
+          1201.64,
+          1550.77
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.832474,
+        "center_xy": [
+          2076.97,
+          1208.27
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.829221,
+        "center_xy": [
+          497.0,
+          2804.02
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.82185,
+        "center_xy": [
+          241.1,
+          2655.3
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.813288,
+        "center_xy": [
+          1371.88,
+          1851.34
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.812561,
+        "center_xy": [
+          714.79,
+          1737.82
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.802001,
+        "center_xy": [
+          1058.89,
+          2390.72
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.799499,
+        "center_xy": [
+          764.46,
+          2251.75
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.784506,
+        "center_xy": [
+          212.56,
+          2500.58
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.778529,
+        "center_xy": [
+          1511.65,
+          1671.24
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.74282,
+        "center_xy": [
+          708.39,
+          2481.02
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.682882,
+        "center_xy": [
+          816.93,
+          1729.3
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.649075,
+        "center_xy": [
+          443.05,
+          2443.17
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.548924,
+        "center_xy": [
+          2044.83,
+          2276.06
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.397837,
+        "center_xy": [
+          445.13,
+          2442.44
+        ]
+      }
+    ],
+    "IMG_2376_frame_000210.jpg": [
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.926997,
+        "center_xy": [
+          1197.96,
+          1647.62
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.921004,
+        "center_xy": [
+          641.1,
+          1787.2
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.905667,
+        "center_xy": [
+          484.45,
+          2188.58
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.888334,
+        "center_xy": [
+          1240.58,
+          2462.9
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.87953,
+        "center_xy": [
+          1752.14,
+          1524.48
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.878218,
+        "center_xy": [
+          1642.18,
+          2685.9
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.872662,
+        "center_xy": [
+          444.34,
+          1870.27
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.868335,
+        "center_xy": [
+          1539.85,
+          1213.47
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.857205,
+        "center_xy": [
+          1261.15,
+          1447.67
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.841703,
+        "center_xy": [
+          956.98,
+          1908.18
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.83576,
+        "center_xy": [
+          731.57,
+          2048.77
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.835121,
+        "center_xy": [
+          702.1,
+          2397.17
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.834761,
+        "center_xy": [
+          1277.33,
+          2654.18
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.82456,
+        "center_xy": [
+          1938.2,
+          1577.93
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.817366,
+        "center_xy": [
+          1895.86,
+          2160.29
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.804856,
+        "center_xy": [
+          1494.4,
+          1515.08
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.803398,
+        "center_xy": [
+          489.56,
+          2027.68
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.79942,
+        "center_xy": [
+          1347.89,
+          2153.0
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.780493,
+        "center_xy": [
+          1667.29,
+          1379.47
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.779962,
+        "center_xy": [
+          1090.56,
+          1931.83
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.741499,
+        "center_xy": [
+          982.19,
+          2155.31
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.736252,
+        "center_xy": [
+          1769.19,
+          1718.79
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.602668,
+        "center_xy": [
+          1992.43,
+          2582.83
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.601225,
+        "center_xy": [
+          1153.77,
+          1431.63
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.550249,
+        "center_xy": [
+          1771.03,
+          1720.56
+        ]
+      }
+    ],
+    "IMG_2376_frame_000240.jpg": [
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.941664,
+        "center_xy": [
+          1283.27,
+          1334.31
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.925433,
+        "center_xy": [
+          1355.7,
+          2508.36
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.911175,
+        "center_xy": [
+          1840.08,
+          2555.93
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.882984,
+        "center_xy": [
+          389.3,
+          1587.91
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.881945,
+        "center_xy": [
+          1840.48,
+          1416.71
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.87806,
+        "center_xy": [
+          677.78,
+          1254.92
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.872369,
+        "center_xy": [
+          1395.84,
+          1182.67
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.869836,
+        "center_xy": [
+          455.81,
+          1253.96
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.861354,
+        "center_xy": [
+          891.78,
+          1760.44
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.852186,
+        "center_xy": [
+          1820.81,
+          1622.92
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.8494,
+        "center_xy": [
+          529.78,
+          1870.93
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.843397,
+        "center_xy": [
+          2004.84,
+          1554.05
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.842798,
+        "center_xy": [
+          1745.05,
+          1067.9
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.840461,
+        "center_xy": [
+          1033.28,
+          2155.18
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.835658,
+        "center_xy": [
+          1308.11,
+          1121.77
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.832223,
+        "center_xy": [
+          1251.37,
+          1885.04
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.827485,
+        "center_xy": [
+          1603.5,
+          1326.38
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.825993,
+        "center_xy": [
+          1004.13,
+          2347.33
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.806837,
+        "center_xy": [
+          1774.17,
+          2090.15
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.798638,
+        "center_xy": [
+          1086.14,
+          1566.55
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.766023,
+        "center_xy": [
+          950.27,
+          1490.63
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.7373,
+        "center_xy": [
+          691.06,
+          1549.15
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.666845,
+        "center_xy": [
+          436.86,
+          1440.78
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.656755,
+        "center_xy": [
+          1811.46,
+          1265.21
+        ]
+      }
+    ],
+    "IMG_2376_frame_000270.jpg": [
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.941054,
+        "center_xy": [
+          1970.76,
+          2254.57
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.934779,
+        "center_xy": [
+          1169.43,
+          2027.76
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.914025,
+        "center_xy": [
+          1595.79,
+          2207.7
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.899771,
+        "center_xy": [
+          908.13,
+          1796.37
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.8696,
+        "center_xy": [
+          1982.63,
+          1417.25
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.86533,
+        "center_xy": [
+          1546.11,
+          931.72
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.864292,
+        "center_xy": [
+          577.06,
+          952.4
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.860649,
+        "center_xy": [
+          841.33,
+          1027.68
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.84791,
+        "center_xy": [
+          1406.78,
+          1015.41
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.84767,
+        "center_xy": [
+          611.75,
+          1260.97
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.835969,
+        "center_xy": [
+          1639.37,
+          1803.67
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.832692,
+        "center_xy": [
+          966.44,
+          1275.76
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.825698,
+        "center_xy": [
+          1683.69,
+          1104.61
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.825285,
+        "center_xy": [
+          1238.5,
+          1474.49
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.82205,
+        "center_xy": [
+          982.74,
+          1648.64
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.805595,
+        "center_xy": [
+          1871.35,
+          1248.32
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.798338,
+        "center_xy": [
+          1878.31,
+          923.54
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.780772,
+        "center_xy": [
+          632.55,
+          873.94
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.776977,
+        "center_xy": [
+          887.53,
+          780.57
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.774141,
+        "center_xy": [
+          701.37,
+          722.8
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.756471,
+        "center_xy": [
+          1806.3,
+          1412.25
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.735042,
+        "center_xy": [
+          1172.47,
+          1154.12
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.603123,
+        "center_xy": [
+          1880.56,
+          1114.29
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.535849,
+        "center_xy": [
+          1065.77,
+          1055.66
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.416314,
+        "center_xy": [
+          1485.5,
+          832.88
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.391627,
+        "center_xy": [
+          1066.89,
+          1055.81
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.325249,
+        "center_xy": [
+          1807.09,
+          1412.95
+        ]
+      }
+    ],
+    "IMG_2376_frame_000300.jpg": [
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.944315,
+        "center_xy": [
+          1888.58,
+          2125.79
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.922711,
+        "center_xy": [
+          1414.88,
+          2175.25
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.919114,
+        "center_xy": [
+          738.56,
+          1902.67
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.899979,
+        "center_xy": [
+          1734.78,
+          1849.05
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.894187,
+        "center_xy": [
+          1803.98,
+          2400.48
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.88296,
+        "center_xy": [
+          534.76,
+          1686.92
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.863352,
+        "center_xy": [
+          1034.43,
+          1074.33
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.863012,
+        "center_xy": [
+          1517.72,
+          1470.35
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.858601,
+        "center_xy": [
+          2078.79,
+          1936.88
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.853242,
+        "center_xy": [
+          737.65,
+          1081.11
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.847779,
+        "center_xy": [
+          322.98,
+          1211.25
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.841152,
+        "center_xy": [
+          635.42,
+          1253.24
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.836229,
+        "center_xy": [
+          1283.23,
+          1183.26
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.824678,
+        "center_xy": [
+          1180.31,
+          1016.94
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.820296,
+        "center_xy": [
+          448.59,
+          766.49
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.814317,
+        "center_xy": [
+          1473.08,
+          1046.37
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.813434,
+        "center_xy": [
+          614.36,
+          1569.49
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.813179,
+        "center_xy": [
+          1669.58,
+          1650.72
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.809092,
+        "center_xy": [
+          1086.17,
+          2094.42
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.807403,
+        "center_xy": [
+          379.15,
+          892.21
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.791765,
+        "center_xy": [
+          318.51,
+          968.48
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.791659,
+        "center_xy": [
+          551.13,
+          1032.06
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.791467,
+        "center_xy": [
+          2053.19,
+          1657.08
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.77147,
+        "center_xy": [
+          604.75,
+          833.04
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.767117,
+        "center_xy": [
+          856.44,
+          1449.51
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.762213,
+        "center_xy": [
+          1177.41,
+          1761.48
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.732172,
+        "center_xy": [
+          1432.0,
+          1323.62
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.646521,
+        "center_xy": [
+          323.79,
+          923.9
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.581192,
+        "center_xy": [
+          820.36,
+          1172.57
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.525084,
+        "center_xy": [
+          2093.3,
+          1749.15
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.518458,
+        "center_xy": [
+          1460.54,
+          1200.27
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.511398,
+        "center_xy": [
+          1355.75,
+          1446.66
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.266944,
+        "center_xy": [
+          1132.25,
+          930.55
+        ]
+      }
+    ],
+    "IMG_2376_frame_000330.jpg": [
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.936124,
+        "center_xy": [
+          1580.55,
+          2091.69
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.931117,
+        "center_xy": [
+          596.15,
+          1851.61
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.900046,
+        "center_xy": [
+          1758.6,
+          1937.33
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.893761,
+        "center_xy": [
+          1798.07,
+          1775.23
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.879325,
+        "center_xy": [
+          1499.79,
+          2323.53
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.876559,
+        "center_xy": [
+          635.03,
+          1126.86
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.855907,
+        "center_xy": [
+          1460.02,
+          1845.94
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.847135,
+        "center_xy": [
+          1098.55,
+          1250.6
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.841129,
+        "center_xy": [
+          1173.33,
+          2113.75
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.824066,
+        "center_xy": [
+          536.9,
+          1279.71
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.823132,
+        "center_xy": [
+          259.69,
+          1232.45
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.81686,
+        "center_xy": [
+          1740.91,
+          1698.91
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.815462,
+        "center_xy": [
+          1291.64,
+          1512.85
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.815067,
+        "center_xy": [
+          1416.5,
+          1671.36
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.810224,
+        "center_xy": [
+          425.72,
+          1654.98
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.809618,
+        "center_xy": [
+          502.02,
+          1554.38
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.80647,
+        "center_xy": [
+          266.4,
+          1015.94
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.788723,
+        "center_xy": [
+          1828.62,
+          2057.1
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.787621,
+        "center_xy": [
+          521.79,
+          912.03
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.780622,
+        "center_xy": [
+          2080.2,
+          1637.15
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.779504,
+        "center_xy": [
+          1271.05,
+          1147.1
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.755736,
+        "center_xy": [
+          721.53,
+          1461.27
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.75562,
+        "center_xy": [
+          390.8,
+          850.97
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.74879,
+        "center_xy": [
+          2127.26,
+          2062.63
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.73726,
+        "center_xy": [
+          323.91,
+          956.24
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.736987,
+        "center_xy": [
+          468.21,
+          1084.8
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.735545,
+        "center_xy": [
+          1235.82,
+          1379.78
+        ]
+      },
+      {
+        "class_id": 5,
+        "class_name": "others",
+        "confidence": 0.707437,
+        "center_xy": [
+          987.16,
+          1748.04
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.70557,
+        "center_xy": [
+          1012.35,
+          1102.76
+        ]
+      },
+      {
+        "class_id": 4,
+        "class_name": "Type_2",
+        "confidence": 0.643586,
+        "center_xy": [
+          894.91,
+          2032.67
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.636725,
+        "center_xy": [
+          1154.34,
+          1480.35
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "Type_1",
+        "confidence": 0.621675,
+        "center_xy": [
+          2037.39,
+          2055.39
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.57722,
+        "center_xy": [
+          889.88,
+          1144.11
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.543615,
+        "center_xy": [
+          698.11,
+          1221.09
+        ]
+      },
+      {
+        "class_id": 2,
+        "class_name": "Type_4",
+        "confidence": 0.373681,
+        "center_xy": [
+          295.53,
+          979.57
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "Type_3",
+        "confidence": 0.363182,
+        "center_xy": [
+          1255.33,
+          1276.89
+        ]
+      },
+      {
+        "class_id": 3,
+        "class_name": "Type_5",
+        "confidence": 0.317105,
+        "center_xy": [
+          981.08,
+          1018.56
+        ]
+      }
+    ]
+  }
+}
